@@ -3,8 +3,9 @@
 
 # TEAM
 
-    <name> I kargbo  <twitter>
-
+    <name> Idrissa kargbo  <twitter>
+	   Ialuma@gmail.com
+	   Unix/Linux Systems Engineer
 # THANKS
 
     <name>
