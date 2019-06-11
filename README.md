@@ -19,6 +19,8 @@ This repository is for showing how Git and GitHub work
  ##GIT comparisons
  Adding GIT Comparisons Lecture
  
+  ##Contribution
+  Fork the Repor and raise pull report for review
  ##GIT Content
  Comparison with Repo
  
