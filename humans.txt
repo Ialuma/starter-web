@@ -5,7 +5,7 @@
 
     <name> Idrissa kargbo  <twitter>
 	   Ialuma@gmail.com
-	   Unix/Linux Systems Engineer
+	   
 # THANKS
 
     <name>
@@ -13,4 +13,5 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
-    jQuery, Modernizr, AJAX
+    jQuery, Modernizr, Machone learining, Docker
+    Docker, Java programming
